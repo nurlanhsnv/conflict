@@ -6,7 +6,7 @@ fun main() {
 
     while (true) {
         try {
-            println("Hello from Nihat");
+            println("Hello from Nurlan");
             println("Welcome to the Ticket App!");
             println("Do you want to buy a Regular, VIP, or Student ticket?");
             println("Regular--> r");
